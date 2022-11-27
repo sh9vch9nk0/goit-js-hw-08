@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-homework-08",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sh9vch9nk0.github.io/goit-js-homework-08",
+  "homepage": "https://sh9vch9nk0.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-homework-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
